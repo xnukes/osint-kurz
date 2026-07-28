@@ -24,15 +24,15 @@ graph TD
     A --> F[Síť kontaktů]
     A --> G[Zájmové stránky]
     
-    B --> Firma 1
-    B --> Firma 2
-    B --> Pozice
-    B --> Období
-    B --> Popis práce
+    B --> B1[Firma 1]
+    B --> B2[Firma 2]
+    B --> B3[Pozice]
+    B --> B4[Období]
+    B --> B5[Popis práce]
     
-    C --> Škola
-    C --> Obor
-    C --> Rok
+    C --> C1[Škola]
+    C --> C2[Obor]
+    C --> C3[Rok]
 ```
 
 ### Veřejné vs soukromé informace

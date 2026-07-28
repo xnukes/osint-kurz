@@ -62,7 +62,7 @@ graph TD
     B --> C[Certificate Transparency]
     B --> D[Historické DNS]
     B --> E[Subdomain enumeration]
-    B --> F[{DNS brute-force}
+    B --> F["{DNS brute-force}"]
     B --> G["Shodan/Censys"]
     B --> H[Email hlavičky]
     

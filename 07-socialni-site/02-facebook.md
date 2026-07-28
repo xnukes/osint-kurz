@@ -23,24 +23,24 @@ graph TD
     A --> E[Fotografie]
     A --> F[Skupiny a stránky]
     
-    B --> Jméno
-    B --> Město
-    B --> Zaměstnání
-    B --> Vzdělání
-    B --> Vztah
+    B --> B1[Jméno]
+    B --> B2[Město]
+    B --> B3[Zaměstnání]
+    B --> B4[Vzdělání]
+    B --> B5[Vztah]
     
-    C --> Přátelé
-    C --> Sledující
+    C --> C1[Přátelé]
+    C --> C2[Sledující]
     
-    D --> Texty
-    D --> Datumy
-    D --> Místa
-    D --> Líbí se mi
+    D --> D1[Texty]
+    D --> D2[Datumy]
+    D --> D3[Místa]
+    D --> D4[Líbí se mi]
     
-    E --> Lidé
-    E --> Místa
-    E --> Tagy
-    E --> EXIF (pokud staženo)
+    E --> E1[Lidé]
+    E --> E2[Místa]
+    E --> E3[Tagy]
+    E --> E4[EXIF - pokud staženo]
 ```
 
 ### Veřejné vs soukromé informace
